@@ -21,7 +21,7 @@ APIKEY=1234567
 then in your program call the key with:
 const APIKEY = process.env.APIKEY;
 
-/*You test this by running a console.log(APIKEY) and see that node returns it
+/* You test this by running a console.log(APIKEY) and see that node returns it
 into the console. */
 ```
 ![alt text](https://github.com/tripdog/github-graphql/blob/master/public/img/screen-shot.jpg?raw=true)
