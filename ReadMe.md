@@ -16,12 +16,13 @@ It's used on Discord, and for this very readme file, plus it's just good to know
 will parse the file. That's a good way to store secret things like API keys. 
 The .env file goes like this:
 
-```APIKEY=1234567
+```
+APIKEY=1234567
 then in your program call the key with:
 const APIKEY = process.env.APIKEY;
 
 /*You test this by running a console.log(APIKEY) and see that node returns it
-into the console.
+into the console. */
 ```
 ![alt text](https://github.com/tripdog/github-graphql/blob/master/public/img/screen-shot.jpg?raw=true)
 
