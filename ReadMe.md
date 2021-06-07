@@ -2,7 +2,7 @@
 The purpose of this project was to use the new GitHub GraphQL
 API to pull down the top 10 most popular repos on GH.
 
-Technoolgies used: Express, Vanilla JS, GraphQL
+Technoolgies used: Express, Vanilla JS, GraphQL, Node.js
 
 Learnings:
 1. If you get an error saying, "SyntaxError: await is only valid in async 
